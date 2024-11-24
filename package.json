@@ -1,5 +1,5 @@
 {
-  "name": "prova3",
+  "name": "p3-tecnicas-ll",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,6 +22,6 @@
     "@types/express": "^5.0.0",
     "ts-node": "^10.9.2",
     "ts-node-dev": "^2.0.0",
-    "typescript": "^5.6.3"
+    "typescript": "^5.7.2"
   }
 }
